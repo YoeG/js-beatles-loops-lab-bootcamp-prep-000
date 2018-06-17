@@ -63,8 +63,9 @@ function iLoveTheBeatles (n)
   {
     
     myArray[i] = 'I love the Beatles!' 
-    i++;
     console.log(i);
+    i++;
+    
   }
   
   while (i < n && n <= 15)
