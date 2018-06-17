@@ -74,4 +74,4 @@ function iLoveTheBeatles (n)
 }
 
 
-console.log(iLoveTheBeatles(15));
+console.log(iLoveTheBeatles(7));
