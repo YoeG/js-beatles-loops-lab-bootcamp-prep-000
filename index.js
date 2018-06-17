@@ -67,7 +67,7 @@ function iLoveTheBeatles (n)
     console.log(i);
   }
   
-  while (i < n)
+  while (i < n && n <= 15)
   
   return myArray;
 }
